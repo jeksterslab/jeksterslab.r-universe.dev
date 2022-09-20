@@ -2,5 +2,9 @@
   {
     "package": "semmcci",
     "url": "https://github.com/jeksterslab/semmcci"
+  },
+  {
+    "package": "betaSandwich",
+    "url": "https://github.com/jeksterslab/betaSandwich"
   }
 ]
