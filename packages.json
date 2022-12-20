@@ -4,6 +4,10 @@
     "url": "https://github.com/jeksterslab/semmcci"
   },
   {
+    "package": "betaDelta",
+    "url": "https://github.com/jeksterslab/betaDelta"
+  },
+  {
     "package": "betaSandwich",
     "url": "https://github.com/jeksterslab/betaSandwich"
   }
