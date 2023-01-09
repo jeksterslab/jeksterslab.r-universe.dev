@@ -10,5 +10,9 @@
   {
     "package": "betaSandwich",
     "url": "https://github.com/jeksterslab/betaSandwich"
+  },
+  {
+    "package": "betaMC",
+    "url": "https://github.com/jeksterslab/betaMC"
   }
 ]
