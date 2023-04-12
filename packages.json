@@ -14,5 +14,9 @@
   {
     "package": "betaMC",
     "url": "https://github.com/jeksterslab/betaMC"
+  },
+  {
+    "package": "betaNB",
+    "url": "https://github.com/jeksterslab/betaNB"
   }
 ]
