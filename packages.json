@@ -18,5 +18,9 @@
   {
     "package": "betaNB",
     "url": "https://github.com/jeksterslab/betaNB"
+  },
+  {
+    "package": "simStateSpace",
+    "url": "https://github.com/jeksterslab/simStateSpace"
   }
 ]
