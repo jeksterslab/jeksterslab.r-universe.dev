@@ -22,5 +22,9 @@
   {
     "package": "simStateSpace",
     "url": "https://github.com/jeksterslab/simStateSpace"
+  },
+  {
+    "package": "cTMed",
+    "url": "https://github.com/jeksterslab/cTMed"
   }
 ]
