@@ -24,6 +24,10 @@
     "url": "https://github.com/jeksterslab/simStateSpace"
   },
   {
+    "package": "bootStateSpace",
+    "url": "https://github.com/jeksterslab/bootStateSpace"
+  },
+  {
     "package": "cTMed",
     "url": "https://github.com/jeksterslab/cTMed"
   }
