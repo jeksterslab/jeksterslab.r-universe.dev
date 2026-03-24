@@ -34,5 +34,9 @@
   {
     "package": "fitVARMxID",
     "url": "https://github.com/jeksterslab/fitVARMxID"
+  },
+  {
+    "package": "metaDyn",
+    "url": "https://github.com/jeksterslab/metaDyn"
   }
 ]
